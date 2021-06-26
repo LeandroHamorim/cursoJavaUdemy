@@ -20,5 +20,3 @@ Favor implementar o programa conforme o diagrama UML.
 <p align="center">
   <img src="https://raw.githubusercontent.com/LeandroHamorim/cursoJavaUdemy/main/src/images/uml14.jpeg" width="350" title="Diagrama UML">
 </p>
-
-![Diagrama UML](https://raw.githubusercontent.com/LeandroHamorim/cursoJavaUdemy/main/src/images/uml14.jpeg)
