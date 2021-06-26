@@ -18,7 +18,7 @@ acrescentada ao preço final do produto.
 Favor implementar o programa conforme o diagrama UML.  
 
 <p align="center">
-  <img src="src/images/uml14.jpeg" width="350" title="Diagrama UML">
+  <img src="https://raw.githubusercontent.com/LeandroHamorim/cursoJavaUdemy/main/src/images/uml14.jpeg" width="350" title="Diagrama UML">
 </p>
 
-![Diagrama UML](src/images/uml14.jpeg?raw=true "uml")
+![Diagrama UML](https://raw.githubusercontent.com/LeandroHamorim/cursoJavaUdemy/main/src/images/uml14.jpeg)
