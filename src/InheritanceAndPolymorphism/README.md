@@ -17,4 +17,4 @@ importados, a taxa e alfândega deve ser
 acrescentada ao preço final do produto.
 Favor implementar o programa conforme o diagrama UML.  
 
-![Diagrama UML](src/images/uml14.jpeg?raw=true)
+![Diagrama UML](src/images/uml14.jpeg?raw=true "uml")
