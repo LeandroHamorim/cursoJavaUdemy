@@ -17,4 +17,6 @@ importados, a taxa e alfândega deve ser
 acrescentada ao preço final do produto.
 Favor implementar o programa conforme o diagrama UML.  
 
-![Diagrama UML](images/uml14.jpeg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeandroHamorim/cursoJavaUdemy/main/src/images/uml14.jpeg" width="350" title="Diagrama UML">
+</p>
