@@ -1,23 +1,23 @@
 package interfaces;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 public class Contract {
 
 	private Integer number;
-	private Date date;
-	private Double totalValueDouble;
-
+	private LocalDate date;
+	private Double totalValue;
+	
 	List<Installment> installments = new ArrayList<>();
-
+	
 	public Contract() {};
 
-	public Contract(Integer number, Date date, Double totalValueDouble) {
+	public Contract(Integer number, LocalDate date, Double totalValue) {
 		this.number = number;
 		this.date = date;
-		this.totalValueDouble = totalValueDouble;
+		this.totalValue = totalValue;
 	}
 
 	public Integer getNumber() {
@@ -28,20 +28,20 @@ public class Contract {
 		this.number = number;
 	}
 
-	public Date getDate() {
+	public LocalDate getDate() {
 		return date;
 	}
 
-	public void setDate(Date date) {
+	public void setDate(LocalDate date) {
 		this.date = date;
 	}
 
-	public Double getTotalValueDouble() {
-		return totalValueDouble;
+	public Double getTotalValue() {
+		return totalValue;
 	}
 
-	public void setTotalValueDouble(Double totalValueDouble) {
-		this.totalValueDouble = totalValueDouble;
+	public void setTotalValue(Double totalValue) {
+		this.totalValue = totalValue;
 	}
 
 	public List<Installment> getInstallments() {
