@@ -14,3 +14,7 @@ Pessoa jurídica: pessoas jurídicas pagam 16% de imposto. Porém, se a empresa 
 funcionários, ela paga 14% de imposto.
 Exemplo: uma empresa cuja renda foi 400000.00 e possui 25 funcionários, o imposto fica:
 400000 * 14% = 56000.00
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeandroHamorim/cursoJavaUdemy/main/src/images/uml14-2.png" width="350" title="Diagrama UML">
+</p>
