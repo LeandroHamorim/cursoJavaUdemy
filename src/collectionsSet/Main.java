@@ -3,6 +3,7 @@ package collectionsSet;
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
+import java.util.stream.Stream;
 
 public class Main {
 
@@ -26,6 +27,8 @@ public class Main {
 			int studentNumber = sc.nextInt();
 			studentsCourseB.add(studentNumber);
 		}
+		
+		final Stream <String> stream = getStream();
 
 		System.out.println("How many students for course C? ");
 		amountStudents = sc.nextInt();

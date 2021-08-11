@@ -1,4 +1,4 @@
-package AbstractMethod;
+package abstractMethod;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,6 +30,8 @@ public class Main {
                 Person person = new LegalPerson(name, annualIncome, numberOfEmployees);
                 personList.add(person);
             }
+            
+            
 
         }
         sc.close();
